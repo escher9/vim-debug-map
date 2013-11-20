@@ -5,7 +5,6 @@ mapping for convenience
 
 press Ctrl F5 to start or shutdown debugging
 
-default map is,
 
 F2 - Dbg down
 
@@ -21,7 +20,7 @@ F7 - Dbg over
 
 F8 - Dbg break
 
-F9 -  Dbg out
+F9 - Dbg out
 
-F10 - Dbg here
+F10- Dbg here
 
